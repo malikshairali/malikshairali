@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- :man_technologist: Senior Software Engineer at **Confiz**. 
+- :man_technologist: Mobile App Developer at **FullFibre Limited**. 
 - :hammer_and_wrench: Languages learnt: **Kotlin, Java, Python**
 - :toolbox: Tools used: **Android Studio, Jenkins, Docker, AWS, Concord, Looper, Proximity**
 - 🚢 Projects worked on: 
