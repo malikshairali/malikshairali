@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am a Software Engineer, experienced in Android App Development and implementing DevOps pipelines. 
+#### I am a Software Engineer, experienced in Android App Development and implementing DevOps pipelines. (Please have a look at the pinned repositories below containing detailed READ.ME files, showcasing live demo of each project)
 
 ##### Currently
 
