@@ -2,18 +2,13 @@
 
 #### I am a Software Engineer, experienced in Android App Development and implementing DevOps pipelines. (Please have a look at the pinned repositories below containing detailed README.md files, showcasing live demo of each project)
 
-##### Currently
-
-- :man_student: Studying *MSc Advanced Computer Science with Business* at the **University of Exeter**
-- :baby: Learning **Flutter**
-- :earth_asia: Exploring new career opportunities
-
 ##### BIO
 
-- :man_technologist: Mobile App Developer at **FullFibre Limited**. 
-- :hammer_and_wrench: Languages learnt: **Kotlin, Java, Python**
-- :toolbox: Tools used: **Android Studio, Jenkins, Docker, AWS, Concord, Looper, Proximity**
-- 🚢 Projects worked on: 
+- :man_technologist: Senior Android Engineer at **StoreLab - The Shopify Mobile App Builder**. 
+- :hammer_and_wrench: Languages and technology: **Kotlin, Java, KMP, Fastlane**
+- :toolbox: Tools used: **Android Studio, Jenkins, Docker**
+- 🚢 Projects worked on:
+  - [StoreLab.app](https://www.storelab.app/)  
   - [Concord (Walmart Enterprise DevOps Tool)](https://concord.walmartlabs.com/)
   - [JazzCash Retailer App](https://play.google.com/store/apps/details?id=com.retailerapp.mobilink&hl=en_GB&gl=US)
   - [Cheetay Delivery App](https://play.google.com/store/apps/details?id=com.app.cheetay&hl=en_GB&gl=US) 
