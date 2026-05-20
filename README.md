@@ -1,19 +1,79 @@
-### Hi there 👋
+# Hi there 👋
 
-#### I am a Software Engineer, experienced in Android App Development and implementing DevOps pipelines. (Please have a look at the pinned repositories below containing detailed README.md files, showcasing live demo of each project)
+I'm Malik, a Senior Android Engineer passionate about building scalable mobile applications and modern Android platforms.
 
-##### BIO
+Currently working at StoreLab, where I build and maintain production Android applications for Shopify merchants using Kotlin, Jetpack Compose, Kotlin Multiplatform, and modern Android architectures.
 
-- :man_technologist: Senior Android Engineer at **StoreLab - The Shopify Mobile App Builder**. 
-- :hammer_and_wrench: Languages and technology: **Kotlin, Java, KMP, Fastlane**
-- :toolbox: Tools used: **Android Studio, Jenkins, Docker**
-- 🚢 Projects worked on:
-  - [StoreLab.app](https://www.storelab.app/)  
-  - [Concord (Walmart Enterprise DevOps Tool)](https://concord.walmartlabs.com/)
-  - [JazzCash Retailer App](https://play.google.com/store/apps/details?id=com.retailerapp.mobilink&hl=en_GB&gl=US)
-  - [Cheetay Delivery App](https://play.google.com/store/apps/details?id=com.app.cheetay&hl=en_GB&gl=US) 
-  - [Cheetay Rider App](https://play.google.com/store/apps/details?id=com.cheetay.riderapp) 
-  - [Campus on Cloud (Student Information System)](https://almusnet.com/campus-on-cloud/)
-- :star2: Interested in learning best **Software Development Practices**
-- :mailbox_closed: Reach me: [linkedin.com/in/malikshairali/](https://www.linkedin.com/in/malikshairali/)
-- :zap: Fun fact: I love to dance when nobody's watching. (Wait, what? You do as well ... :hear_no_evil:)
+## 💼 Experience
+
+* 👨‍💻 Senior Android Engineer at StoreLab — The Shopify Mobile App Builder
+* 📱 Experienced building customer-facing mobile products across e-commerce, fintech, and enterprise domains
+* 🧠 Led features end-to-end from discovery and refinement to development, release, and monitoring
+* 👥 Previously led Android teams and participated in hiring and technical interviews
+
+## 🛠 Tech Stack
+
+### 📱 Mobile Development
+
+* Kotlin
+* Java
+* Jetpack Compose
+* Kotlin Multiplatform (KMP)
+
+### 🏗 Architecture & Patterns
+
+* MVVM
+* Clean Architecture
+* Multi-module Architecture
+* Offline-first Systems
+
+### ⚡ Concurrency & Networking
+
+* Kotlin Coroutines
+* Flow / StateFlow
+* Retrofit
+* Ktor
+* REST APIs
+
+### 🚀 DevOps & Automation
+
+* Fastlane
+* GitLab CI/CD
+* Jenkins
+* Docker
+* AI-assisted Engineering Workflows
+
+### 🧰 Developer Tools
+
+* Android Studio
+* IntelliJ IDEA
+* Cursor
+* OpenAI Codex
+* Gemini
+
+
+## 🚢 Projects Worked On
+
+* StoreLab.app
+* Concord (Walmart Enterprise DevOps Tool)
+* JazzCash Retailer App
+* Cheetay Delivery App
+* Cheetay Rider App
+* Campus on Cloud (Student Information System)
+
+## 🌱 Currently Interested In
+
+* Modern Android architecture
+* Kotlin Multiplatform
+* Developer productivity & automation
+* Building reliable mobile experiences
+* AI-assisted engineering workflows
+
+## 📫 Reach Me
+
+* LinkedIn: linkedin.com/in/malikshairali/
+
+## ⚡ Fun Fact
+
+I love dancing when nobody's watching.
+(And debugging production crashes when everybody's watching 😄)
